@@ -30,3 +30,12 @@ root@Sandeep-linux:/var/www/html# cat > sandeep.html
 </html>
 
 <img width="1890" height="925" alt="image" src="https://github.com/user-attachments/assets/d434d92e-74a3-4ce6-a8c1-8f88700d2c29" />
+
+Vnet peering:
+
+
+
+
+![Vnet peering](https://github.com/user-attachments/assets/105af5bd-3984-4428-8696-87424b700469)
+
+
